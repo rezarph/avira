@@ -252,6 +252,7 @@ function create_config( )
       "settings",
       "spam",
       "speaking",
+      "supergroup",
       "calc",
       "cleverbot",
       "wiki",
@@ -274,7 +275,7 @@ function create_config( )
       "nerkharz",
       "arabic"
      },
-    sudo_users = {176619893},
+    sudo_users = {134139736},
     admin_users = {},
     disabled_channels = {}
   }
